@@ -1,0 +1,8 @@
+D:\Projects\CodeContractsAccount\CodeContractsAccountTests\bin\Debug\CodeContractsAccountTests.dll
+D:\Projects\CodeContractsAccount\CodeContractsAccountTests\bin\Debug\CodeContractsAccountTests.pdb
+D:\Projects\CodeContractsAccount\CodeContractsAccountTests\bin\Debug\CodeContractsAccount.exe
+D:\Projects\CodeContractsAccount\CodeContractsAccountTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\CodeContractsAccount\CodeContractsAccountTests\bin\Debug\CodeContractsAccount.pdb
+D:\Projects\CodeContractsAccount\CodeContractsAccountTests\obj\Debug\CodeContractsAccountTests.csprojResolveAssemblyReference.cache
+D:\Projects\CodeContractsAccount\CodeContractsAccountTests\obj\Debug\CodeContractsAccountTests.dll
+D:\Projects\CodeContractsAccount\CodeContractsAccountTests\obj\Debug\CodeContractsAccountTests.pdb
